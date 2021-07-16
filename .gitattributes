@@ -1,1 +1,1 @@
-git lfs track "*.docx"
+*.docx filter=lfs diff=lfs merge=lfs -text
